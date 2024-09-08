@@ -66,6 +66,8 @@ int main() {
     int xmax = mencari_x_max(v0);
     float vtan = speed_no_loss( mencari_V0(xmax) );
 
+    //coba ku ubah dikit
+
     std::cout << xmax << " " << vtan << std::endl;
     
     return 0;
