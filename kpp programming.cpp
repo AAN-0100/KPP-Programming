@@ -67,6 +67,8 @@ int main() {
     float vtan = speed_no_loss( mencari_V0(xmax) );
 
     //coba ku ubah dikit
+    //hahahahhahahaha
+    //ini branch lohhhh hahahaha
 
     std::cout << xmax << " " << vtan << std::endl;
     
